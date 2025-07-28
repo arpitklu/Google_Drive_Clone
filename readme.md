@@ -75,12 +75,6 @@ A full-stack clone of Google Drive built with Node.js, Express, MongoDB, and EJS
 - `views/` - EJS templates for frontend
 - `assets/` - Static assets (images, etc.)
 
-## Screenshots
-
-![Home](assets/Home_GDClone.png)
-![Login](assets/Login_GDClone.png)
-![Register](assets/Register_GDClone.png)
-
 ## License
 
 This project is licensed under the ISC License.
